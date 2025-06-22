@@ -1,0 +1,4633 @@
+[{
+  "_id": 7722,
+  "order": {
+    "_id": 7722,
+    "name": "Order-1",
+    "price": 260500,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "682318a0d6e38d35c9b03262"
+        },
+        "stock": 0,
+        "ratingCount": 10,
+        "name": "Semen Tiga Roda",
+        "totrating": 45,
+        "price": 10000
+      },
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 1000,
+        "ratingCount": 0,
+        "name": "Batu Bata Merah",
+        "totrating": 0,
+        "price": 500
+      },
+      {
+        "_id": {
+          "$oid": "6823272ed6e38d35c9b03272"
+        },
+        "stock": 50,
+        "ratingCount": 2,
+        "name": "Pasir Hitam",
+        "totrating": 9,
+        "price": 250000
+      }
+    ]
+  },
+  "payId": 5559,
+  "deliverId": 6037,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-09T09:47:12.380Z"
+  },
+  "deliveryAddress": "Brebes",
+  "trackingNumber": "D7E9AEE8",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "6845d9fa23f84f4824706835"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 1,
+        "name": "Order-1",
+        "price": 260500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 0,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 2,
+            "name": "Pasir Hitam",
+            "totrating": 9,
+            "price": 250000
+          }
+        ]
+      },
+      {
+        "_id": 7722,
+        "name": "Order-1",
+        "price": 260500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 0,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 2,
+            "name": "Pasir Hitam",
+            "totrating": 9,
+            "price": 250000
+          }
+        ]
+      }
+    ],
+    "name": "momoo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$OgP94vmB6Y8yD1mmg7weT.lK3HFTw71Bsu1d1M9fWSUvRZhbLU6iG",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 7866,
+  "order": {
+    "_id": 7866,
+    "name": "Order-5",
+    "price": 260500,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "682318a0d6e38d35c9b03262"
+        },
+        "stock": 0,
+        "ratingCount": 10,
+        "name": "Semen Tiga Roda",
+        "totrating": 45,
+        "price": 10000
+      },
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 1000,
+        "ratingCount": 0,
+        "name": "Batu Bata Merah",
+        "totrating": 0,
+        "price": 500
+      },
+      {
+        "_id": {
+          "$oid": "6823272ed6e38d35c9b03272"
+        },
+        "stock": 50,
+        "ratingCount": 2,
+        "name": "Pasir Hitam",
+        "totrating": 9,
+        "price": 250000
+      }
+    ]
+  },
+  "payId": 9446,
+  "deliverId": 5152,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-13T10:48:20.655Z"
+  },
+  "deliveryAddress": "Brebes",
+  "trackingNumber": "3F991321",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "6845d9fa23f84f4824706835"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 1,
+        "name": "Order-1",
+        "price": 260500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 0,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 2,
+            "name": "Pasir Hitam",
+            "totrating": 9,
+            "price": 250000
+          }
+        ]
+      },
+      {
+        "_id": 7722,
+        "name": "Order-1",
+        "price": 260500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 0,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 2,
+            "name": "Pasir Hitam",
+            "totrating": 9,
+            "price": 250000
+          }
+        ]
+      },
+      {
+        "_id": 7866,
+        "name": "Order-5",
+        "price": 260500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 0,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 2,
+            "name": "Pasir Hitam",
+            "totrating": 9,
+            "price": 250000
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "momooo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$OgP94vmB6Y8yD1mmg7weT.lK3HFTw71Bsu1d1M9fWSUvRZhbLU6iG",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 2434,
+  "order": {
+    "_id": 2434,
+    "name": "Order-1",
+    "price": 260500,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "682318a0d6e38d35c9b03262"
+        },
+        "stock": 200,
+        "ratingCount": 10,
+        "name": "Semen Tiga Roda",
+        "totrating": 45,
+        "price": 10000
+      },
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 1000,
+        "ratingCount": 0,
+        "name": "Batu Bata Merah",
+        "totrating": 0,
+        "price": 500
+      },
+      {
+        "_id": {
+          "$oid": "6823272ed6e38d35c9b03272"
+        },
+        "stock": 50,
+        "ratingCount": 3,
+        "name": "Pasir Hitam",
+        "totrating": 13.5,
+        "price": 250000
+      }
+    ]
+  },
+  "payId": 3248,
+  "deliverId": 7104,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-14T17:09:46.263Z"
+  },
+  "deliveryAddress": "Brebes",
+  "trackingNumber": "A40E0348",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "6845d9fa23f84f4824706835"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 1,
+        "name": "Order-1",
+        "price": 260500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 0,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 2,
+            "name": "Pasir Hitam",
+            "totrating": 9,
+            "price": 250000
+          }
+        ]
+      },
+      {
+        "_id": 7722,
+        "name": "Order-1",
+        "price": 260500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 0,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 2,
+            "name": "Pasir Hitam",
+            "totrating": 9,
+            "price": 250000
+          }
+        ]
+      },
+      {
+        "_id": 7866,
+        "name": "Order-5",
+        "price": 260500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 0,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 2,
+            "name": "Pasir Hitam",
+            "totrating": 9,
+            "price": 250000
+          }
+        ]
+      },
+      {
+        "_id": 2434,
+        "name": "Order-1",
+        "price": 260500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 200,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 3,
+            "name": "Pasir Hitam",
+            "totrating": 13.5,
+            "price": 250000
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "_id": 9756,
+        "name": "Building Project Beta",
+        "jumTukang": 5,
+        "listTukang": [],
+        "deskripsi": "This project is to build a new house in the city center.",
+        "alamatKota": "Jakarta",
+        "durasi": 30,
+        "price": 22750000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 8297,
+        "name": "alpha",
+        "jumTukang": 4,
+        "listTukang": [],
+        "deskripsi": "Alpha",
+        "alamatKota": "Bandung",
+        "durasi": 4,
+        "price": 2650000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 1943,
+        "name": "asda",
+        "jumTukang": 3,
+        "listTukang": [],
+        "deskripsi": "dd",
+        "alamatKota": "ada",
+        "durasi": 3,
+        "price": 1600000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 8854,
+        "name": "qe",
+        "jumTukang": 2,
+        "listTukang": [],
+        "deskripsi": "dawd",
+        "alamatKota": "Jakarta",
+        "durasi": 2,
+        "price": 850000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 3141,
+        "name": "Beta",
+        "jumTukang": 19,
+        "listTukang": [],
+        "deskripsi": "Beta Squad",
+        "alamatKota": "Brebes",
+        "durasi": 10,
+        "price": 28750000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 1533,
+        "name": "Beta Squad",
+        "jumTukang": 50,
+        "listTukang": [],
+        "deskripsi": "This project is to build a new house in the city.",
+        "alamatKota": "Jawa",
+        "durasi": 30,
+        "price": 225250000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 7274,
+        "name": "satu",
+        "jumTukang": 18,
+        "listTukang": [],
+        "deskripsi": "satu",
+        "alamatKota": "salatiga",
+        "durasi": 18,
+        "price": 48850000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 3942,
+        "name": "aku",
+        "jumTukang": 19,
+        "listTukang": [],
+        "deskripsi": "dd",
+        "alamatKota": "aku",
+        "durasi": 19,
+        "price": 54400000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 5177,
+        "name": "ree",
+        "jumTukang": 12,
+        "listTukang": [],
+        "deskripsi": "haii",
+        "alamatKota": "Bandung",
+        "durasi": 289,
+        "price": 520450000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 4244,
+        "name": "a",
+        "jumTukang": 1,
+        "listTukang": [],
+        "deskripsi": "...",
+        "alamatKota": "Bandung",
+        "durasi": 1,
+        "price": 400000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 3983,
+        "name": "Beta Squad",
+        "jumTukang": 50,
+        "listTukang": [],
+        "deskripsi": "This project is to build a new house in the city.",
+        "alamatKota": "Jawa",
+        "durasi": 30,
+        "price": 225250000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 2544,
+        "name": "aa",
+        "jumTukang": 1,
+        "listTukang": [],
+        "deskripsi": "aaa",
+        "alamatKota": "aaaa",
+        "durasi": 1,
+        "price": 400000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 4210,
+        "name": "gawe kloset",
+        "jumTukang": 200,
+        "listTukang": [],
+        "deskripsi": "pokoke beres",
+        "alamatKota": "Kendal",
+        "durasi": 1,
+        "price": 30250000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 4056,
+        "name": "meja rusak",
+        "jumTukang": 12,
+        "listTukang": [],
+        "deskripsi": "hehe",
+        "alamatKota": "didieu",
+        "durasi": 1,
+        "price": 2050000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 8944,
+        "name": "1",
+        "jumTukang": 1,
+        "listTukang": [],
+        "deskripsi": "1",
+        "alamatKota": "111",
+        "durasi": 1,
+        "price": 400000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 7371,
+        "name": "12",
+        "jumTukang": 11,
+        "listTukang": [],
+        "deskripsi": "111",
+        "alamatKota": "123",
+        "durasi": 1,
+        "price": 1900000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      },
+      {
+        "_id": 9386,
+        "name": "1",
+        "jumTukang": 1,
+        "listTukang": [],
+        "deskripsi": "1",
+        "alamatKota": "123",
+        "durasi": 1,
+        "price": 400000,
+        "status": "Looking for Tukang",
+        "customerId": "6845d9fa23f84f4824706835"
+      }
+    ],
+    "name": "momooo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$OgP94vmB6Y8yD1mmg7weT.lK3HFTw71Bsu1d1M9fWSUvRZhbLU6iG",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 5922,
+  "order": {
+    "_id": 5922,
+    "name": "OYpcfxD",
+    "price": 35500,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "682318a0d6e38d35c9b03262"
+        },
+        "stock": 200,
+        "ratingCount": 10,
+        "name": "Semen Tiga Roda",
+        "totrating": 45,
+        "price": 10000
+      },
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 1000,
+        "ratingCount": 0,
+        "name": "Batu Bata Merah",
+        "totrating": 0,
+        "price": 500
+      },
+      {
+        "_id": {
+          "$oid": "6823272ed6e38d35c9b03272"
+        },
+        "stock": 50,
+        "ratingCount": 3,
+        "name": "Pasir Hitam",
+        "totrating": 13.5,
+        "price": 25000
+      }
+    ]
+  },
+  "payId": 7068,
+  "deliverId": 5674,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-15T14:56:39.071Z"
+  },
+  "deliveryAddress": "Brebes",
+  "trackingNumber": "14FB2078",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684e6cb415aec51c80dab21b"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 5922,
+        "name": "OYpcfxD",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 200,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 3,
+            "name": "Pasir Hitam",
+            "totrating": 13.5,
+            "price": 25000
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "momoo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$AaE39NuANOrnQV0Kr9hduOYsfHmzrwUsfzw8pqXwBm6IppEwjwany",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 8147,
+  "order": {
+    "_id": 8147,
+    "name": "6okulRY",
+    "price": 45500,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "682318a0d6e38d35c9b03262"
+        },
+        "stock": 199,
+        "ratingCount": 10,
+        "name": "Semen Tiga Roda",
+        "totrating": 45,
+        "price": 10000
+      },
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 999,
+        "ratingCount": 2,
+        "name": "Batu Bata Merah",
+        "totrating": 6,
+        "price": 500
+      },
+      {
+        "_id": {
+          "$oid": "6823272ed6e38d35c9b03272"
+        },
+        "stock": 49,
+        "ratingCount": 5,
+        "name": "Pasir Hitam",
+        "totrating": 22.5,
+        "price": 25000
+      },
+      {
+        "_id": {
+          "$oid": "682318a0d6e38d35c9b03262"
+        },
+        "stock": 199,
+        "ratingCount": 10,
+        "name": "Semen Tiga Roda",
+        "totrating": 45,
+        "price": 10000
+      }
+    ]
+  },
+  "payId": 5851,
+  "deliverId": 8732,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T03:46:03.106Z"
+  },
+  "deliveryAddress": "Brebes",
+  "trackingNumber": "CEFD8073",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684e6cb415aec51c80dab21b"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 5922,
+        "name": "OYpcfxD",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 200,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 3,
+            "name": "Pasir Hitam",
+            "totrating": 13.5,
+            "price": 25000
+          }
+        ]
+      },
+      {
+        "_id": 8147,
+        "name": "6okulRY",
+        "price": 45500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 999,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 49,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "momoo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$AaE39NuANOrnQV0Kr9hduOYsfHmzrwUsfzw8pqXwBm6IppEwjwany",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 8800,
+  "order": {
+    "_id": 8800,
+    "name": "ak0Y2ar",
+    "price": 35500,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "6823272ed6e38d35c9b03272"
+        },
+        "stock": 48,
+        "ratingCount": 5,
+        "name": "Pasir Hitam",
+        "totrating": 22.5,
+        "price": 25000
+      },
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 998,
+        "ratingCount": 2,
+        "name": "Batu Bata Merah",
+        "totrating": 6,
+        "price": 500
+      },
+      {
+        "_id": {
+          "$oid": "682318a0d6e38d35c9b03262"
+        },
+        "stock": 197,
+        "ratingCount": 10,
+        "name": "Semen Tiga Roda",
+        "totrating": 45,
+        "price": 10000
+      }
+    ]
+  },
+  "payId": 2513,
+  "deliverId": 6961,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T04:09:38.352Z"
+  },
+  "deliveryAddress": "Brebes",
+  "trackingNumber": "4C77F8E5",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684e6cb415aec51c80dab21b"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 5922,
+        "name": "OYpcfxD",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 200,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 3,
+            "name": "Pasir Hitam",
+            "totrating": 13.5,
+            "price": 25000
+          }
+        ]
+      },
+      {
+        "_id": 8147,
+        "name": "6okulRY",
+        "price": 45500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 999,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 49,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 8800,
+        "name": "ak0Y2ar",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 48,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 998,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 197,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "momoo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$AaE39NuANOrnQV0Kr9hduOYsfHmzrwUsfzw8pqXwBm6IppEwjwany",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 2276,
+  "order": {
+    "_id": 2276,
+    "name": "gz1kkQc",
+    "price": 35500,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "6823272ed6e38d35c9b03272"
+        },
+        "stock": 47,
+        "ratingCount": 5,
+        "name": "Pasir Hitam",
+        "totrating": 22.5,
+        "price": 25000
+      },
+      {
+        "_id": {
+          "$oid": "682318a0d6e38d35c9b03262"
+        },
+        "stock": 195,
+        "ratingCount": 10,
+        "name": "Semen Tiga Roda",
+        "totrating": 45,
+        "price": 10000
+      },
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 997,
+        "ratingCount": 2,
+        "name": "Batu Bata Merah",
+        "totrating": 6,
+        "price": 500
+      }
+    ]
+  },
+  "payId": 8022,
+  "deliverId": 4660,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T04:48:35.350Z"
+  },
+  "deliveryAddress": "Brebes",
+  "trackingNumber": "62A0BFBA",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684e6cb415aec51c80dab21b"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 5922,
+        "name": "OYpcfxD",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 200,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 3,
+            "name": "Pasir Hitam",
+            "totrating": 13.5,
+            "price": 25000
+          }
+        ]
+      },
+      {
+        "_id": 8147,
+        "name": "6okulRY",
+        "price": 45500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 999,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 49,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 8800,
+        "name": "ak0Y2ar",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 48,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 998,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 197,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 2276,
+        "name": "gz1kkQc",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 47,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 195,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 997,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "momoo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$AaE39NuANOrnQV0Kr9hduOYsfHmzrwUsfzw8pqXwBm6IppEwjwany",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 9578,
+  "order": {
+    "_id": 9578,
+    "name": "uLIUPxu",
+    "price": 35500,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "6823272ed6e38d35c9b03272"
+        },
+        "stock": 43,
+        "ratingCount": 5,
+        "name": "Pasir Hitam",
+        "totrating": 22.5,
+        "price": 25000
+      },
+      {
+        "_id": {
+          "$oid": "682318a0d6e38d35c9b03262"
+        },
+        "stock": 190,
+        "ratingCount": 10,
+        "name": "Semen Tiga Roda",
+        "totrating": 45,
+        "price": 10000
+      },
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 993,
+        "ratingCount": 2,
+        "name": "Batu Bata Merah",
+        "totrating": 6,
+        "price": 500
+      }
+    ]
+  },
+  "payId": 9802,
+  "deliverId": 1513,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T04:50:24.150Z"
+  },
+  "deliveryAddress": "Brebes",
+  "trackingNumber": "17ABE298",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684e6cb415aec51c80dab21b"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 5922,
+        "name": "OYpcfxD",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 200,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 3,
+            "name": "Pasir Hitam",
+            "totrating": 13.5,
+            "price": 25000
+          }
+        ]
+      },
+      {
+        "_id": 8147,
+        "name": "6okulRY",
+        "price": 45500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 999,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 49,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 8800,
+        "name": "ak0Y2ar",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 48,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 998,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 197,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 2276,
+        "name": "gz1kkQc",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 47,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 195,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 997,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 9578,
+        "name": "uLIUPxu",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 43,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 190,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 993,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "momoo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$AaE39NuANOrnQV0Kr9hduOYsfHmzrwUsfzw8pqXwBm6IppEwjwany",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 2162,
+  "order": {
+    "_id": 2162,
+    "name": "DYRiK3t",
+    "price": 10500,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 991,
+        "ratingCount": 2,
+        "name": "Batu Bata Merah",
+        "totrating": 6,
+        "price": 500
+      },
+      {
+        "_id": {
+          "$oid": "682318a0d6e38d35c9b03262"
+        },
+        "stock": 188,
+        "ratingCount": 10,
+        "name": "Semen Tiga Roda",
+        "totrating": 45,
+        "price": 10000
+      }
+    ]
+  },
+  "payId": 5238,
+  "deliverId": 6259,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T04:55:45.912Z"
+  },
+  "deliveryAddress": "Brebes",
+  "trackingNumber": "0B18228B",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684e6cb415aec51c80dab21b"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 5922,
+        "name": "OYpcfxD",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 200,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 3,
+            "name": "Pasir Hitam",
+            "totrating": 13.5,
+            "price": 25000
+          }
+        ]
+      },
+      {
+        "_id": 8147,
+        "name": "6okulRY",
+        "price": 45500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 999,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 49,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 8800,
+        "name": "ak0Y2ar",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 48,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 998,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 197,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 2276,
+        "name": "gz1kkQc",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 47,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 195,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 997,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 9578,
+        "name": "uLIUPxu",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 43,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 190,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 993,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 2162,
+        "name": "DYRiK3t",
+        "price": 10500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 991,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 188,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "momoo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$AaE39NuANOrnQV0Kr9hduOYsfHmzrwUsfzw8pqXwBm6IppEwjwany",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 3554,
+  "order": {
+    "_id": 3554,
+    "name": "CzzCwMz",
+    "price": 10500,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 989,
+        "ratingCount": 2,
+        "name": "Batu Bata Merah",
+        "totrating": 6,
+        "price": 500
+      },
+      {
+        "_id": {
+          "$oid": "682318a0d6e38d35c9b03262"
+        },
+        "stock": 186,
+        "ratingCount": 10,
+        "name": "Semen Tiga Roda",
+        "totrating": 45,
+        "price": 10000
+      }
+    ]
+  },
+  "payId": 3921,
+  "deliverId": 2965,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T04:57:26.972Z"
+  },
+  "deliveryAddress": "Brebes",
+  "trackingNumber": "FBD505A8",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684e6cb415aec51c80dab21b"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 5922,
+        "name": "OYpcfxD",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 200,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 3,
+            "name": "Pasir Hitam",
+            "totrating": 13.5,
+            "price": 25000
+          }
+        ]
+      },
+      {
+        "_id": 8147,
+        "name": "6okulRY",
+        "price": 45500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 999,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 49,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 8800,
+        "name": "ak0Y2ar",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 48,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 998,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 197,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 2276,
+        "name": "gz1kkQc",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 47,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 195,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 997,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 9578,
+        "name": "uLIUPxu",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 43,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 190,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 993,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 2162,
+        "name": "DYRiK3t",
+        "price": 10500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 991,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 188,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 3554,
+        "name": "CzzCwMz",
+        "price": 10500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 989,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 186,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "momoo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$AaE39NuANOrnQV0Kr9hduOYsfHmzrwUsfzw8pqXwBm6IppEwjwany",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 5846,
+  "order": {
+    "_id": 5846,
+    "name": "oprNbsj",
+    "price": 10000,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "682318a0d6e38d35c9b03262"
+        },
+        "stock": 182,
+        "ratingCount": 10,
+        "name": "Semen Tiga Roda",
+        "totrating": 45,
+        "price": 10000
+      }
+    ]
+  },
+  "payId": 3853,
+  "deliverId": 8833,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T04:58:13.843Z"
+  },
+  "deliveryAddress": "Brebes",
+  "trackingNumber": "19F2F5A4",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684e6cb415aec51c80dab21b"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 5922,
+        "name": "OYpcfxD",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 200,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 3,
+            "name": "Pasir Hitam",
+            "totrating": 13.5,
+            "price": 25000
+          }
+        ]
+      },
+      {
+        "_id": 8147,
+        "name": "6okulRY",
+        "price": 45500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 999,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 49,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 8800,
+        "name": "ak0Y2ar",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 48,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 998,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 197,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 2276,
+        "name": "gz1kkQc",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 47,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 195,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 997,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 9578,
+        "name": "uLIUPxu",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 43,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 190,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 993,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 2162,
+        "name": "DYRiK3t",
+        "price": 10500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 991,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 188,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 3554,
+        "name": "CzzCwMz",
+        "price": 10500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 989,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 186,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 5846,
+        "name": "oprNbsj",
+        "price": 10000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 182,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "momoo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$AaE39NuANOrnQV0Kr9hduOYsfHmzrwUsfzw8pqXwBm6IppEwjwany",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 5336,
+  "order": {
+    "_id": 5336,
+    "name": "WJImXmw",
+    "price": 10000,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "682318a0d6e38d35c9b03262"
+        },
+        "stock": 180,
+        "ratingCount": 10,
+        "name": "Semen Tiga Roda",
+        "totrating": 45,
+        "price": 10000
+      }
+    ]
+  },
+  "payId": 1035,
+  "deliverId": 3644,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T04:58:42.002Z"
+  },
+  "deliveryAddress": "Brebes",
+  "trackingNumber": "58A6D59F",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684e6cb415aec51c80dab21b"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 5922,
+        "name": "OYpcfxD",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 200,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 3,
+            "name": "Pasir Hitam",
+            "totrating": 13.5,
+            "price": 25000
+          }
+        ]
+      },
+      {
+        "_id": 8147,
+        "name": "6okulRY",
+        "price": 45500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 999,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 49,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 8800,
+        "name": "ak0Y2ar",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 48,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 998,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 197,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 2276,
+        "name": "gz1kkQc",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 47,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 195,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 997,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 9578,
+        "name": "uLIUPxu",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 43,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 190,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 993,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 2162,
+        "name": "DYRiK3t",
+        "price": 10500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 991,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 188,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 3554,
+        "name": "CzzCwMz",
+        "price": 10500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 989,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 186,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 5846,
+        "name": "oprNbsj",
+        "price": 10000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 182,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 5336,
+        "name": "WJImXmw",
+        "price": 10000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 180,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "momoo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$AaE39NuANOrnQV0Kr9hduOYsfHmzrwUsfzw8pqXwBm6IppEwjwany",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 2723,
+  "order": {
+    "_id": 2723,
+    "name": "vfN7Lsv",
+    "price": 25500,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "6823272ed6e38d35c9b03272"
+        },
+        "stock": 42,
+        "ratingCount": 5,
+        "name": "Pasir Hitam",
+        "totrating": 22.5,
+        "price": 25000
+      },
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 988,
+        "ratingCount": 2,
+        "name": "Batu Bata Merah",
+        "totrating": 6,
+        "price": 500
+      }
+    ]
+  },
+  "payId": 9835,
+  "deliverId": 6079,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T05:10:04.996Z"
+  },
+  "deliveryAddress": "Brebes",
+  "trackingNumber": "8AD88113",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684e6cb415aec51c80dab21b"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 5922,
+        "name": "OYpcfxD",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 200,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 3,
+            "name": "Pasir Hitam",
+            "totrating": 13.5,
+            "price": 25000
+          }
+        ]
+      },
+      {
+        "_id": 8147,
+        "name": "6okulRY",
+        "price": 45500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 999,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 49,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 8800,
+        "name": "ak0Y2ar",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 48,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 998,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 197,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 2276,
+        "name": "gz1kkQc",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 47,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 195,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 997,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 9578,
+        "name": "uLIUPxu",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 43,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 190,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 993,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 2162,
+        "name": "DYRiK3t",
+        "price": 10500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 991,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 188,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 3554,
+        "name": "CzzCwMz",
+        "price": 10500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 989,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 186,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 5846,
+        "name": "oprNbsj",
+        "price": 10000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 182,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 5336,
+        "name": "WJImXmw",
+        "price": 10000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 180,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 2723,
+        "name": "vfN7Lsv",
+        "price": 25500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 42,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 988,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "momoo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$AaE39NuANOrnQV0Kr9hduOYsfHmzrwUsfzw8pqXwBm6IppEwjwany",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 6519,
+  "order": {
+    "_id": 6519,
+    "name": "1H8F4RW",
+    "price": 10000,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "682318a0d6e38d35c9b03262"
+        },
+        "stock": 179,
+        "ratingCount": 10,
+        "name": "Semen Tiga Roda",
+        "totrating": 45,
+        "price": 10000
+      }
+    ]
+  },
+  "payId": 3639,
+  "deliverId": 8747,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T05:13:10.628Z"
+  },
+  "deliveryAddress": "Brebes",
+  "trackingNumber": "704289D2",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684e6cb415aec51c80dab21b"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 5922,
+        "name": "OYpcfxD",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 200,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 3,
+            "name": "Pasir Hitam",
+            "totrating": 13.5,
+            "price": 25000
+          }
+        ]
+      },
+      {
+        "_id": 8147,
+        "name": "6okulRY",
+        "price": 45500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 999,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 49,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 199,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 8800,
+        "name": "ak0Y2ar",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 48,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 998,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 197,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 2276,
+        "name": "gz1kkQc",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 47,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 195,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 997,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 9578,
+        "name": "uLIUPxu",
+        "price": 35500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 43,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 190,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 993,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 2162,
+        "name": "DYRiK3t",
+        "price": 10500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 991,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 188,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 3554,
+        "name": "CzzCwMz",
+        "price": 10500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 989,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 186,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 5846,
+        "name": "oprNbsj",
+        "price": 10000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 182,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 5336,
+        "name": "WJImXmw",
+        "price": 10000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 180,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      },
+      {
+        "_id": 2723,
+        "name": "vfN7Lsv",
+        "price": 25500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 42,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 25000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 988,
+            "ratingCount": 2,
+            "name": "Batu Bata Merah",
+            "totrating": 6,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 6519,
+        "name": "1H8F4RW",
+        "price": 10000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 179,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "momoo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$AaE39NuANOrnQV0Kr9hduOYsfHmzrwUsfzw8pqXwBm6IppEwjwany",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 4963,
+  "order": {
+    "_id": 4963,
+    "name": "A7qu6Ds",
+    "price": 500,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 987,
+        "ratingCount": 3,
+        "name": "Batu Bata Merah",
+        "totrating": 7,
+        "price": 500
+      }
+    ]
+  },
+  "payId": 1016,
+  "deliverId": 7482,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T06:17:56.268Z"
+  },
+  "deliveryAddress": "Bandung",
+  "trackingNumber": "FC49D313",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684fb4584a974427511f4963"
+    },
+    "address": "Bandung",
+    "phoneNumber": "08123456789",
+    "orders": [
+      {
+        "_id": 4963,
+        "name": "A7qu6Ds",
+        "price": 500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 987,
+            "ratingCount": 3,
+            "name": "Batu Bata Merah",
+            "totrating": 7,
+            "price": 500
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "arfian1",
+    "email": "arfian@gmail.com",
+    "password": "$2a$10$inEak8QGJeoWtd8jTmRPPechGrkoQoSlZNeywVQMJiWU.yq5eJUOG",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 4881,
+  "order": {
+    "_id": 4881,
+    "name": "p8FAJ0x",
+    "price": 3000,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "6823272ed6e38d35c9b03272"
+        },
+        "stock": 49,
+        "ratingCount": 5,
+        "name": "Pasir Hitam",
+        "totrating": 22.5,
+        "price": 2500
+      },
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 986,
+        "ratingCount": 3,
+        "name": "Batu Bata Merah",
+        "totrating": 7,
+        "price": 500
+      }
+    ]
+  },
+  "payId": 1565,
+  "deliverId": 9031,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T06:18:53.389Z"
+  },
+  "deliveryAddress": "Bandung",
+  "trackingNumber": "CFFBC1C8",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684fb4584a974427511f4963"
+    },
+    "address": "Bandung",
+    "phoneNumber": "08123456789",
+    "orders": [
+      {
+        "_id": 4963,
+        "name": "A7qu6Ds",
+        "price": 500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 987,
+            "ratingCount": 3,
+            "name": "Batu Bata Merah",
+            "totrating": 7,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 4881,
+        "name": "p8FAJ0x",
+        "price": 3000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 49,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 2500
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 986,
+            "ratingCount": 3,
+            "name": "Batu Bata Merah",
+            "totrating": 7,
+            "price": 500
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "arfian1",
+    "email": "arfian@gmail.com",
+    "password": "$2a$10$inEak8QGJeoWtd8jTmRPPechGrkoQoSlZNeywVQMJiWU.yq5eJUOG",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 3066,
+  "order": {
+    "_id": 3066,
+    "name": "Yaph27X",
+    "price": 938000,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "684bf188fc0e222c1b88f36b"
+        },
+        "stock": 4999,
+        "ratingCount": 1,
+        "name": "Kayu",
+        "totrating": 3,
+        "price": 10000
+      },
+      {
+        "_id": {
+          "$oid": "682b7baa8ff0c15c6bbcfec5"
+        },
+        "stock": 149,
+        "ratingCount": 0,
+        "name": "Cat Tembok",
+        "totrating": 0,
+        "price": 35000
+      },
+      {
+        "_id": {
+          "$oid": "682b7b438ff0c15c6bbcfec4"
+        },
+        "stock": 299,
+        "ratingCount": 0,
+        "name": "Semen Gajah",
+        "totrating": 0,
+        "price": 15000
+      },
+      {
+        "_id": {
+          "$oid": "6823272ed6e38d35c9b03272"
+        },
+        "stock": 48,
+        "ratingCount": 5,
+        "name": "Pasir Hitam",
+        "totrating": 22.5,
+        "price": 2500
+      },
+      {
+        "_id": {
+          "$oid": "682e0118a939ab2de281b532"
+        },
+        "stock": 249,
+        "ratingCount": 0,
+        "name": "Baja Ringan",
+        "totrating": 0,
+        "price": 800000
+      },
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 985,
+        "ratingCount": 3,
+        "name": "Batu Bata Merah",
+        "totrating": 7,
+        "price": 500
+      },
+      {
+        "_id": {
+          "$oid": "682b7bb98ff0c15c6bbcfec6"
+        },
+        "stock": 99,
+        "ratingCount": 0,
+        "name": "Kayu Merbau",
+        "totrating": 0,
+        "price": 75000
+      }
+    ]
+  },
+  "payId": 7864,
+  "deliverId": 8111,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T06:20:26.495Z"
+  },
+  "deliveryAddress": "Bandung",
+  "trackingNumber": "48B8B95C",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684fb4584a974427511f4963"
+    },
+    "address": "Bandung",
+    "phoneNumber": "08123456789",
+    "orders": [
+      {
+        "_id": 4963,
+        "name": "A7qu6Ds",
+        "price": 500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 987,
+            "ratingCount": 3,
+            "name": "Batu Bata Merah",
+            "totrating": 7,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 4881,
+        "name": "p8FAJ0x",
+        "price": 3000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 49,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 2500
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 986,
+            "ratingCount": 3,
+            "name": "Batu Bata Merah",
+            "totrating": 7,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 3066,
+        "name": "Yaph27X",
+        "price": 938000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "684bf188fc0e222c1b88f36b"
+            },
+            "stock": 4999,
+            "ratingCount": 1,
+            "name": "Kayu",
+            "totrating": 3,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "682b7baa8ff0c15c6bbcfec5"
+            },
+            "stock": 149,
+            "ratingCount": 0,
+            "name": "Cat Tembok",
+            "totrating": 0,
+            "price": 35000
+          },
+          {
+            "_id": {
+              "$oid": "682b7b438ff0c15c6bbcfec4"
+            },
+            "stock": 299,
+            "ratingCount": 0,
+            "name": "Semen Gajah",
+            "totrating": 0,
+            "price": 15000
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 48,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 2500
+          },
+          {
+            "_id": {
+              "$oid": "682e0118a939ab2de281b532"
+            },
+            "stock": 249,
+            "ratingCount": 0,
+            "name": "Baja Ringan",
+            "totrating": 0,
+            "price": 800000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 985,
+            "ratingCount": 3,
+            "name": "Batu Bata Merah",
+            "totrating": 7,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682b7bb98ff0c15c6bbcfec6"
+            },
+            "stock": 99,
+            "ratingCount": 0,
+            "name": "Kayu Merbau",
+            "totrating": 0,
+            "price": 75000
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "arfian1",
+    "email": "arfian@gmail.com",
+    "password": "$2a$10$inEak8QGJeoWtd8jTmRPPechGrkoQoSlZNeywVQMJiWU.yq5eJUOG",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 2503,
+  "order": {
+    "_id": 2503,
+    "name": "m6TVmIF",
+    "price": 0,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "684fb7ba1b9ff72ee5930c7c"
+        },
+        "stock": 9,
+        "ratingCount": 0,
+        "name": "Semen Tiga Roda",
+        "totrating": 0,
+        "price": 0
+      }
+    ]
+  },
+  "payId": 4811,
+  "deliverId": 6375,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T06:20:43.029Z"
+  },
+  "trackingNumber": "5160B807",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684fb7ba1b9ff72ee5930c7b"
+    },
+    "orders": [
+      {
+        "_id": 2503,
+        "name": "m6TVmIF",
+        "price": 0,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "684fb7ba1b9ff72ee5930c7c"
+            },
+            "stock": 9,
+            "ratingCount": 0,
+            "name": "Semen Tiga Roda",
+            "totrating": 0,
+            "price": 0
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "TestCustomer",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 4846,
+  "order": {
+    "_id": 4846,
+    "name": "SIYi6p5",
+    "price": 90000,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "684fb82d3832452055fac672"
+        },
+        "stock": 9,
+        "ratingCount": 0,
+        "name": "Semen Tiga Roda",
+        "totrating": 0,
+        "price": 90000
+      }
+    ]
+  },
+  "payId": 2966,
+  "deliverId": 8661,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T06:22:37.686Z"
+  },
+  "trackingNumber": "43718500",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684fb82c3832452055fac671"
+    },
+    "orders": [
+      {
+        "_id": 4846,
+        "name": "SIYi6p5",
+        "price": 90000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "684fb82d3832452055fac672"
+            },
+            "stock": 9,
+            "ratingCount": 0,
+            "name": "Semen Tiga Roda",
+            "totrating": 0,
+            "price": 90000
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "TestCustomer",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 3251,
+  "order": {
+    "_id": 3251,
+    "name": "7O4SSnI",
+    "price": 500,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 984,
+        "ratingCount": 4,
+        "name": "Batu Bata Merah",
+        "totrating": 9,
+        "price": 500
+      }
+    ]
+  },
+  "payId": 4893,
+  "deliverId": 9100,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T06:29:10.883Z"
+  },
+  "deliveryAddress": "Bandung",
+  "trackingNumber": "B3C0A647",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684fb4584a974427511f4963"
+    },
+    "address": "Bandung",
+    "phoneNumber": "08123456789",
+    "orders": [
+      {
+        "_id": 4963,
+        "name": "A7qu6Ds",
+        "price": 500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 987,
+            "ratingCount": 3,
+            "name": "Batu Bata Merah",
+            "totrating": 7,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 4881,
+        "name": "p8FAJ0x",
+        "price": 3000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 49,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 2500
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 986,
+            "ratingCount": 3,
+            "name": "Batu Bata Merah",
+            "totrating": 7,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 3066,
+        "name": "Yaph27X",
+        "price": 938000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "684bf188fc0e222c1b88f36b"
+            },
+            "stock": 4999,
+            "ratingCount": 1,
+            "name": "Kayu",
+            "totrating": 3,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "682b7baa8ff0c15c6bbcfec5"
+            },
+            "stock": 149,
+            "ratingCount": 0,
+            "name": "Cat Tembok",
+            "totrating": 0,
+            "price": 35000
+          },
+          {
+            "_id": {
+              "$oid": "682b7b438ff0c15c6bbcfec4"
+            },
+            "stock": 299,
+            "ratingCount": 0,
+            "name": "Semen Gajah",
+            "totrating": 0,
+            "price": 15000
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 48,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 2500
+          },
+          {
+            "_id": {
+              "$oid": "682e0118a939ab2de281b532"
+            },
+            "stock": 249,
+            "ratingCount": 0,
+            "name": "Baja Ringan",
+            "totrating": 0,
+            "price": 800000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 985,
+            "ratingCount": 3,
+            "name": "Batu Bata Merah",
+            "totrating": 7,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682b7bb98ff0c15c6bbcfec6"
+            },
+            "stock": 99,
+            "ratingCount": 0,
+            "name": "Kayu Merbau",
+            "totrating": 0,
+            "price": 75000
+          }
+        ]
+      },
+      {
+        "_id": 3251,
+        "name": "7O4SSnI",
+        "price": 500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 984,
+            "ratingCount": 4,
+            "name": "Batu Bata Merah",
+            "totrating": 9,
+            "price": 500
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "arfian1",
+    "email": "arfian@gmail.com",
+    "password": "$2a$10$inEak8QGJeoWtd8jTmRPPechGrkoQoSlZNeywVQMJiWU.yq5eJUOG",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 4708,
+  "order": {
+    "_id": 4708,
+    "name": "YjvBLvM",
+    "price": 53000,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "682b7baa8ff0c15c6bbcfec5"
+        },
+        "stock": 148,
+        "ratingCount": 0,
+        "name": "Cat Tembok",
+        "totrating": 0,
+        "price": 35000
+      },
+      {
+        "_id": {
+          "$oid": "682b7b438ff0c15c6bbcfec4"
+        },
+        "stock": 298,
+        "ratingCount": 0,
+        "name": "Semen Gajah",
+        "totrating": 0,
+        "price": 15000
+      },
+      {
+        "_id": {
+          "$oid": "6823272ed6e38d35c9b03272"
+        },
+        "stock": 47,
+        "ratingCount": 5,
+        "name": "Pasir Hitam",
+        "totrating": 22.5,
+        "price": 2500
+      },
+      {
+        "_id": {
+          "$oid": "6823261fd6e38d35c9b0326e"
+        },
+        "stock": 983,
+        "ratingCount": 5,
+        "name": "Batu Bata Merah",
+        "totrating": 14,
+        "price": 500
+      }
+    ]
+  },
+  "payId": 6879,
+  "deliverId": 1344,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T06:43:15.827Z"
+  },
+  "deliveryAddress": "Bandung",
+  "trackingNumber": "F813D65E",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684fb4584a974427511f4963"
+    },
+    "address": "Bandung",
+    "phoneNumber": "08123456789",
+    "orders": [
+      {
+        "_id": 4963,
+        "name": "A7qu6Ds",
+        "price": 500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 987,
+            "ratingCount": 3,
+            "name": "Batu Bata Merah",
+            "totrating": 7,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 4881,
+        "name": "p8FAJ0x",
+        "price": 3000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 49,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 2500
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 986,
+            "ratingCount": 3,
+            "name": "Batu Bata Merah",
+            "totrating": 7,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 3066,
+        "name": "Yaph27X",
+        "price": 938000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "684bf188fc0e222c1b88f36b"
+            },
+            "stock": 4999,
+            "ratingCount": 1,
+            "name": "Kayu",
+            "totrating": 3,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "682b7baa8ff0c15c6bbcfec5"
+            },
+            "stock": 149,
+            "ratingCount": 0,
+            "name": "Cat Tembok",
+            "totrating": 0,
+            "price": 35000
+          },
+          {
+            "_id": {
+              "$oid": "682b7b438ff0c15c6bbcfec4"
+            },
+            "stock": 299,
+            "ratingCount": 0,
+            "name": "Semen Gajah",
+            "totrating": 0,
+            "price": 15000
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 48,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 2500
+          },
+          {
+            "_id": {
+              "$oid": "682e0118a939ab2de281b532"
+            },
+            "stock": 249,
+            "ratingCount": 0,
+            "name": "Baja Ringan",
+            "totrating": 0,
+            "price": 800000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 985,
+            "ratingCount": 3,
+            "name": "Batu Bata Merah",
+            "totrating": 7,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "682b7bb98ff0c15c6bbcfec6"
+            },
+            "stock": 99,
+            "ratingCount": 0,
+            "name": "Kayu Merbau",
+            "totrating": 0,
+            "price": 75000
+          }
+        ]
+      },
+      {
+        "_id": 3251,
+        "name": "7O4SSnI",
+        "price": 500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 984,
+            "ratingCount": 4,
+            "name": "Batu Bata Merah",
+            "totrating": 9,
+            "price": 500
+          }
+        ]
+      },
+      {
+        "_id": 4708,
+        "name": "YjvBLvM",
+        "price": 53000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682b7baa8ff0c15c6bbcfec5"
+            },
+            "stock": 148,
+            "ratingCount": 0,
+            "name": "Cat Tembok",
+            "totrating": 0,
+            "price": 35000
+          },
+          {
+            "_id": {
+              "$oid": "682b7b438ff0c15c6bbcfec4"
+            },
+            "stock": 298,
+            "ratingCount": 0,
+            "name": "Semen Gajah",
+            "totrating": 0,
+            "price": 15000
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 47,
+            "ratingCount": 5,
+            "name": "Pasir Hitam",
+            "totrating": 22.5,
+            "price": 2500
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 983,
+            "ratingCount": 5,
+            "name": "Batu Bata Merah",
+            "totrating": 14,
+            "price": 500
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "_id": 3245,
+        "name": "BikinRumah",
+        "jumTukang": 15,
+        "listTukang": [],
+        "deskripsi": "Bikin rumah mewah",
+        "alamatKota": "Bandung",
+        "durasi": 30,
+        "price": 67750000,
+        "status": "Looking for Tukang",
+        "customerId": "684fb4584a974427511f4963"
+      }
+    ],
+    "name": "arfian1",
+    "email": "arfian@gmail.com",
+    "password": "$2a$10$inEak8QGJeoWtd8jTmRPPechGrkoQoSlZNeywVQMJiWU.yq5eJUOG",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+},
+{
+  "_id": 7532,
+  "order": {
+    "_id": 7532,
+    "name": "FSrsUKw",
+    "price": 110000,
+    "materials": [
+      {
+        "_id": {
+          "$oid": "684fbe7b5b551d003721a7f4"
+        },
+        "stock": 9,
+        "ratingCount": 0,
+        "name": "Semen Dua Roda",
+        "totrating": 0,
+        "price": 110000
+      }
+    ]
+  },
+  "payId": 3960,
+  "deliverId": 2763,
+  "payMethod": "Not yet paid",
+  "payDate": {
+    "$date": "2025-06-16T06:49:31.751Z"
+  },
+  "trackingNumber": "D58D016E",
+  "status": "Pending",
+  "deliveryStatus": "Not delivered",
+  "customer": {
+    "_id": {
+      "$oid": "684fbe725b551d003721a7f3"
+    },
+    "orders": [
+      {
+        "_id": 7532,
+        "name": "FSrsUKw",
+        "price": 110000,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "684fbe7b5b551d003721a7f4"
+            },
+            "stock": 9,
+            "ratingCount": 0,
+            "name": "Semen Dua Roda",
+            "totrating": 0,
+            "price": 110000
+          }
+        ]
+      }
+    ],
+    "projects": [],
+    "name": "TestCustomer",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.OrderDetails"
+}]

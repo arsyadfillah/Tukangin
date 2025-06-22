@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "6823261fd6e38d35c9b0326e"
+  },
+  "stock": 983,
+  "ratingCount": 5,
+  "name": "Batu Bata Merah",
+  "totrating": 14,
+  "price": 500,
+  "_class": "com.example.tubespboo.model.Material"
+},
+{
+  "_id": {
+    "$oid": "6823272ed6e38d35c9b03272"
+  },
+  "stock": 47,
+  "ratingCount": 5,
+  "name": "Pasir Hitam",
+  "totrating": 22.5,
+  "price": 2500,
+  "_class": "com.example.tubespboo.model.Material"
+},
+{
+  "_id": {
+    "$oid": "682b7b438ff0c15c6bbcfec4"
+  },
+  "stock": 298,
+  "ratingCount": 0,
+  "name": "Semen Gajah",
+  "totrating": 0,
+  "price": 15000,
+  "_class": "com.example.tubespboo.model.Material"
+},
+{
+  "_id": {
+    "$oid": "682b7baa8ff0c15c6bbcfec5"
+  },
+  "stock": 148,
+  "ratingCount": 0,
+  "name": "Cat Tembok",
+  "totrating": 0,
+  "price": 35000,
+  "_class": "com.example.tubespboo.model.Material"
+},
+{
+  "_id": {
+    "$oid": "682b7bb98ff0c15c6bbcfec6"
+  },
+  "stock": 99,
+  "ratingCount": 0,
+  "name": "Kayu Merbau",
+  "totrating": 0,
+  "price": 75000,
+  "_class": "com.example.tubespboo.model.Material"
+},
+{
+  "_id": {
+    "$oid": "682e0118a939ab2de281b532"
+  },
+  "stock": 249,
+  "ratingCount": 0,
+  "name": "Baja Ringan",
+  "totrating": 0,
+  "price": 800000,
+  "_class": "com.example.tubespboo.model.Material"
+},
+{
+  "_id": {
+    "$oid": "684bf188fc0e222c1b88f36b"
+  },
+  "stock": 4999,
+  "ratingCount": 1,
+  "name": "Kayu",
+  "totrating": 3,
+  "price": 10000,
+  "_class": "com.example.tubespboo.model.Material"
+},
+{
+  "_id": {
+    "$oid": "684fb82d3832452055fac672"
+  },
+  "stock": 9,
+  "ratingCount": 0,
+  "name": "Semen Tiga Roda",
+  "totrating": 0,
+  "price": 90000,
+  "_class": "com.example.tubespboo.model.Material"
+},
+{
+  "_id": {
+    "$oid": "684fb8ff4a974427511f4964"
+  },
+  "stock": 200,
+  "ratingCount": 0,
+  "name": "Kawat",
+  "totrating": 0,
+  "price": 4000,
+  "_class": "com.example.tubespboo.model.Material"
+},
+{
+  "_id": {
+    "$oid": "684fbb754a974427511f4965"
+  },
+  "stock": 100,
+  "ratingCount": 0,
+  "name": "Test",
+  "totrating": 0,
+  "price": 1000,
+  "_class": "com.example.tubespboo.model.Material"
+},
+{
+  "_id": {
+    "$oid": "684fbe7b5b551d003721a7f4"
+  },
+  "stock": 9,
+  "ratingCount": 0,
+  "name": "Semen Dua Roda",
+  "totrating": 0,
+  "price": 110000,
+  "_class": "com.example.tubespboo.model.Material"
+}]

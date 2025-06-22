@@ -1,0 +1,244 @@
+[{
+  "_id": 6291,
+  "name": "Building Project Alpha",
+  "jumTukang": 3,
+  "listTukang": [
+    {
+      "_id": {
+        "$oid": "6845909cc07284077f0a9920"
+      },
+      "availability": false,
+      "totrating": 0,
+      "ratingCount": 0,
+      "phoneNumber": "088888888",
+      "name": "boyolali",
+      "email": "boyolali@gmail.com",
+      "password": "$2a$10$SUPAvAnbiXgOIn.95WCCjOIsMiarT2Awl21F8Mk/5xjndovSuxbCq",
+      "role": "ROLE_TUKANG"
+    },
+    {
+      "_id": {
+        "$oid": "684d668d6bd66a596044ba72"
+      },
+      "availability": false,
+      "totrating": 0,
+      "ratingCount": 0,
+      "phoneNumber": "123456789101112",
+      "name": "anamarchel",
+      "email": "anamarchel@gmail.com",
+      "password": "$2a$10$CR7PaQX4Es0gQJQiplCi8e.Dx2I.wTwpPK/rYO0I6iqcDBcmLtnGe",
+      "role": "ROLE_TUKANG"
+    },
+    {
+      "_id": {
+        "$oid": "684e78675eaf432995e5bdf9"
+      },
+      "availability": false,
+      "totrating": 0,
+      "ratingCount": 0,
+      "phoneNumber": "123456789101112131415",
+      "name": "anandamarchelh",
+      "email": "anamar@gmail.com",
+      "password": "$2a$10$SWs1rJg/.yU86014p4qky.On7oJv2w3yhgYkBSnXgghkuedXrzslK",
+      "role": "ROLE_TUKANG"
+    }
+  ],
+  "deskripsi": "This project is to build a new house in the city center.",
+  "alamatKota": "Jakarta",
+  "durasi": 30,
+  "price": 500000,
+  "status": "On Progress",
+  "_class": "com.example.tubespboo.model.Project"
+},
+{
+  "_id": 1521,
+  "name": "Building Project Beta",
+  "jumTukang": 5,
+  "listTukang": [],
+  "deskripsi": "This project is to build a new house in the city center.",
+  "alamatKota": "Jakarta",
+  "durasi": 30,
+  "price": 22750000,
+  "status": "Looking for Tukang",
+  "customer": {
+    "_id": {
+      "$oid": "6845d9fa23f84f4824706835"
+    },
+    "address": "Brebes",
+    "phoneNumber": "08135628888",
+    "orders": [
+      {
+        "_id": 1,
+        "name": "Order-1",
+        "price": 260500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 0,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 2,
+            "name": "Pasir Hitam",
+            "totrating": 9,
+            "price": 250000
+          }
+        ]
+      },
+      {
+        "_id": 7722,
+        "name": "Order-1",
+        "price": 260500,
+        "materials": [
+          {
+            "_id": {
+              "$oid": "682318a0d6e38d35c9b03262"
+            },
+            "stock": 0,
+            "ratingCount": 10,
+            "name": "Semen Tiga Roda",
+            "totrating": 45,
+            "price": 10000
+          },
+          {
+            "_id": {
+              "$oid": "6823261fd6e38d35c9b0326e"
+            },
+            "stock": 1000,
+            "ratingCount": 0,
+            "name": "Batu Bata Merah",
+            "totrating": 0,
+            "price": 500
+          },
+          {
+            "_id": {
+              "$oid": "6823272ed6e38d35c9b03272"
+            },
+            "stock": 50,
+            "ratingCount": 2,
+            "name": "Pasir Hitam",
+            "totrating": 9,
+            "price": 250000
+          }
+        ]
+      }
+    ],
+    "name": "momooo",
+    "email": "momoo@gmail.com",
+    "password": "$2a$10$OgP94vmB6Y8yD1mmg7weT.lK3HFTw71Bsu1d1M9fWSUvRZhbLU6iG",
+    "role": "ROLE_CUSTOMER"
+  },
+  "_class": "com.example.tubespboo.model.Project"
+},
+{
+  "_id": 3141,
+  "name": "Beta",
+  "jumTukang": 19,
+  "listTukang": [
+    {
+      "_id": {
+        "$oid": "684e83c95281fc4c070516e1"
+      },
+      "availability": false,
+      "totrating": 0,
+      "ratingCount": 0,
+      "phoneNumber": "123456789101231243214",
+      "name": "markonah",
+      "email": "markonah@gmail.com",
+      "password": "$2a$10$Q9C7iUABmmXG2hV0Zm2HOue5ar5RdczrzOubLe8vhi7aWsPWQMPF2",
+      "role": "ROLE_TUKANG"
+    },
+    {
+      "_id": {
+        "$oid": "684e97e11a1f040e71d954d1"
+      },
+      "availability": false,
+      "totrating": 0,
+      "ratingCount": 0,
+      "phoneNumber": "1232315132513534",
+      "name": "anandamarchelh",
+      "email": "anan@gmail.com",
+      "password": "$2a$10$i62IGhxPt0norHHnClOFiOcSO1jrTpXhCQ5LlPYyvRcE1MA3fnJEC",
+      "role": "ROLE_TUKANG"
+    }
+  ],
+  "deskripsi": "Beta Squad",
+  "alamatKota": "Brebes",
+  "durasi": 10,
+  "price": 28750000,
+  "status": "Looking for Tukang",
+  "customerId": "6845d9fa23f84f4824706835",
+  "_class": "com.example.tubespboo.model.Project"
+},
+{
+  "_id": 8521,
+  "name": "Bangun canti 1 malam",
+  "jumTukang": 1,
+  "listTukang": [],
+  "deskripsi": "Harus dalam 1 malam",
+  "alamatKota": "Yogyakarta (Jawa)",
+  "durasi": 1,
+  "price": 400000,
+  "status": "Looking for Tukang",
+  "customerId": "684d6ddbe14d1439a7eeb97e",
+  "_class": "com.example.tubespboo.model.Project"
+},
+{
+  "_id": 7478,
+  "name": "Garden",
+  "jumTukang": 4,
+  "listTukang": [],
+  "deskripsi": "Garden setup in my house",
+  "alamatKota": "Bandung",
+  "durasi": 12,
+  "price": 7450000,
+  "status": "Looking for Tukang",
+  "customerId": "684ed3ab6cff7f283f162637",
+  "_class": "com.example.tubespboo.model.Project"
+},
+{
+  "_id": 3245,
+  "name": "BikinRumah",
+  "jumTukang": 15,
+  "listTukang": [
+    {
+      "_id": {
+        "$oid": "684fb12711afdb156ff22830"
+      },
+      "availability": false,
+      "totrating": 0,
+      "ratingCount": 0,
+      "phoneNumber": "081228027727",
+      "name": "Jaya Sujaya",
+      "email": "JY@gmail.com",
+      "password": "$2a$10$omNDNl5a1M8AMl6gb3gVvO8ka.VHLz9GxEzv.JMmlBZFJF9eiBHPO",
+      "role": "ROLE_TUKANG"
+    }
+  ],
+  "deskripsi": "Bikin rumah mewah",
+  "alamatKota": "Bandung",
+  "durasi": 30,
+  "price": 67750000,
+  "status": "Looking for Tukang",
+  "customerId": "684fb4584a974427511f4963",
+  "_class": "com.example.tubespboo.model.Project"
+}]

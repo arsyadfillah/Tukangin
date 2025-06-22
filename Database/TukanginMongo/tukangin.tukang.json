@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "68357f33dabf4e176a6fcdd1"
+  },
+  "availability": false,
+  "totrating": 0,
+  "ratingCount": 0,
+  "phoneNumber": "081234567890",
+  "name": "Budi Santoso",
+  "email": "budi.santoso@example.com",
+  "password": "$2a$10$CFlRD.H/D4K8R6b2Yjvqx.66VxuUk.zkbxhA3Bl08J4xeOTq/JZhS",
+  "role": "ROLE_TUKANG",
+  "_class": "com.example.tubespboo.model.Tukang"
+},
+{
+  "_id": {
+    "$oid": "68458cb2c07284077f0a991c"
+  },
+  "availability": true,
+  "totrating": 0,
+  "ratingCount": 0,
+  "phoneNumber": "081234567890",
+  "name": "Joko",
+  "email": "joko@example.com",
+  "password": "$2a$10$i3t0mhlgLZoM.RmrxJ.lBOA/apXrEENJEnuoY.NbRKGa3evx.CMTG",
+  "role": "ROLE_TUKANG",
+  "_class": "com.example.tubespboo.model.Tukang"
+},
+{
+  "_id": {
+    "$oid": "684fbdfb4a974427511f4966"
+  },
+  "availability": true,
+  "totrating": 0,
+  "ratingCount": 0,
+  "phoneNumber": "081228027727",
+  "name": "Ananda Marchel",
+  "email": "JayaSujaya@gmail.com",
+  "password": "$2a$10$m.qdjjk2ELwDZFqB/hZRfuLacWjpMS80oYJBAj.f7lDdqf8sm9sjm",
+  "role": "ROLE_TUKANG",
+  "_class": "com.example.tubespboo.model.Tukang"
+}]

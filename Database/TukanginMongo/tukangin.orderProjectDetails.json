@@ -1,0 +1,1197 @@
+[{
+  "_id": 6291,
+  "project": {
+    "_id": 6291,
+    "name": "Building Project Alpha",
+    "jumTukang": 3,
+    "listTukang": [],
+    "deskripsi": "This project is to build a new house in the city center.",
+    "alamatKota": "Jakarta",
+    "durasi": 30,
+    "price": 500000,
+    "status": "Looking for Tukang",
+    "customer": {
+      "_id": {
+        "$oid": "6845d9fa23f84f4824706835"
+      },
+      "address": "Brebes",
+      "phoneNumber": "08135628888",
+      "orders": [
+        {
+          "_id": 1,
+          "name": "Order-1",
+          "price": 260500,
+          "materials": [
+            {
+              "_id": {
+                "$oid": "682318a0d6e38d35c9b03262"
+              },
+              "stock": 0,
+              "ratingCount": 10,
+              "name": "Semen Tiga Roda",
+              "totrating": 45,
+              "price": 10000
+            },
+            {
+              "_id": {
+                "$oid": "6823261fd6e38d35c9b0326e"
+              },
+              "stock": 1000,
+              "ratingCount": 0,
+              "name": "Batu Bata Merah",
+              "totrating": 0,
+              "price": 500
+            },
+            {
+              "_id": {
+                "$oid": "6823272ed6e38d35c9b03272"
+              },
+              "stock": 50,
+              "ratingCount": 2,
+              "name": "Pasir Hitam",
+              "totrating": 9,
+              "price": 250000
+            }
+          ]
+        }
+      ],
+      "name": "momoo",
+      "email": "momoo@gmail.com",
+      "password": "$2a$10$OgP94vmB6Y8yD1mmg7weT.lK3HFTw71Bsu1d1M9fWSUvRZhbLU6iG",
+      "role": "ROLE_CUSTOMER"
+    }
+  },
+  "payId": 6233,
+  "payDate": {
+    "$date": "2025-06-09T09:39:44.341Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 8574,
+  "project": {
+    "_id": 8574,
+    "name": "Building Project Beta",
+    "jumTukang": 5,
+    "listTukang": [],
+    "deskripsi": "This project is to build a new house in the city center.",
+    "alamatKota": "Jakarta",
+    "durasi": 30,
+    "price": 22750000,
+    "status": "Looking for Tukang",
+    "customer": {
+      "_id": {
+        "$oid": "6845d9fa23f84f4824706835"
+      },
+      "address": "Brebes",
+      "phoneNumber": "08135628888",
+      "orders": [
+        {
+          "_id": 1,
+          "name": "Order-1",
+          "price": 260500,
+          "materials": [
+            {
+              "_id": {
+                "$oid": "682318a0d6e38d35c9b03262"
+              },
+              "stock": 0,
+              "ratingCount": 10,
+              "name": "Semen Tiga Roda",
+              "totrating": 45,
+              "price": 10000
+            },
+            {
+              "_id": {
+                "$oid": "6823261fd6e38d35c9b0326e"
+              },
+              "stock": 1000,
+              "ratingCount": 0,
+              "name": "Batu Bata Merah",
+              "totrating": 0,
+              "price": 500
+            },
+            {
+              "_id": {
+                "$oid": "6823272ed6e38d35c9b03272"
+              },
+              "stock": 50,
+              "ratingCount": 2,
+              "name": "Pasir Hitam",
+              "totrating": 9,
+              "price": 250000
+            }
+          ]
+        },
+        {
+          "_id": 7722,
+          "name": "Order-1",
+          "price": 260500,
+          "materials": [
+            {
+              "_id": {
+                "$oid": "682318a0d6e38d35c9b03262"
+              },
+              "stock": 0,
+              "ratingCount": 10,
+              "name": "Semen Tiga Roda",
+              "totrating": 45,
+              "price": 10000
+            },
+            {
+              "_id": {
+                "$oid": "6823261fd6e38d35c9b0326e"
+              },
+              "stock": 1000,
+              "ratingCount": 0,
+              "name": "Batu Bata Merah",
+              "totrating": 0,
+              "price": 500
+            },
+            {
+              "_id": {
+                "$oid": "6823272ed6e38d35c9b03272"
+              },
+              "stock": 50,
+              "ratingCount": 2,
+              "name": "Pasir Hitam",
+              "totrating": 9,
+              "price": 250000
+            }
+          ]
+        }
+      ],
+      "name": "momooo",
+      "email": "momoo@gmail.com",
+      "password": "$2a$10$OgP94vmB6Y8yD1mmg7weT.lK3HFTw71Bsu1d1M9fWSUvRZhbLU6iG",
+      "role": "ROLE_CUSTOMER"
+    }
+  },
+  "payId": 4350,
+  "payDate": {
+    "$date": "2025-06-13T10:27:48.070Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 6035,
+  "project": {
+    "_id": 6035,
+    "name": "Building Project Beta",
+    "jumTukang": 5,
+    "listTukang": [],
+    "deskripsi": "This project is to build a new house in the city center.",
+    "alamatKota": "Jakarta",
+    "durasi": 30,
+    "price": 22750000,
+    "status": "Looking for Tukang",
+    "customer": {
+      "_id": {
+        "$oid": "6845d9fa23f84f4824706835"
+      },
+      "address": "Brebes",
+      "phoneNumber": "08135628888",
+      "orders": [
+        {
+          "_id": 1,
+          "name": "Order-1",
+          "price": 260500,
+          "materials": [
+            {
+              "_id": {
+                "$oid": "682318a0d6e38d35c9b03262"
+              },
+              "stock": 0,
+              "ratingCount": 10,
+              "name": "Semen Tiga Roda",
+              "totrating": 45,
+              "price": 10000
+            },
+            {
+              "_id": {
+                "$oid": "6823261fd6e38d35c9b0326e"
+              },
+              "stock": 1000,
+              "ratingCount": 0,
+              "name": "Batu Bata Merah",
+              "totrating": 0,
+              "price": 500
+            },
+            {
+              "_id": {
+                "$oid": "6823272ed6e38d35c9b03272"
+              },
+              "stock": 50,
+              "ratingCount": 2,
+              "name": "Pasir Hitam",
+              "totrating": 9,
+              "price": 250000
+            }
+          ]
+        },
+        {
+          "_id": 7722,
+          "name": "Order-1",
+          "price": 260500,
+          "materials": [
+            {
+              "_id": {
+                "$oid": "682318a0d6e38d35c9b03262"
+              },
+              "stock": 0,
+              "ratingCount": 10,
+              "name": "Semen Tiga Roda",
+              "totrating": 45,
+              "price": 10000
+            },
+            {
+              "_id": {
+                "$oid": "6823261fd6e38d35c9b0326e"
+              },
+              "stock": 1000,
+              "ratingCount": 0,
+              "name": "Batu Bata Merah",
+              "totrating": 0,
+              "price": 500
+            },
+            {
+              "_id": {
+                "$oid": "6823272ed6e38d35c9b03272"
+              },
+              "stock": 50,
+              "ratingCount": 2,
+              "name": "Pasir Hitam",
+              "totrating": 9,
+              "price": 250000
+            }
+          ]
+        }
+      ],
+      "name": "momooo",
+      "email": "momoo@gmail.com",
+      "password": "$2a$10$OgP94vmB6Y8yD1mmg7weT.lK3HFTw71Bsu1d1M9fWSUvRZhbLU6iG",
+      "role": "ROLE_CUSTOMER"
+    }
+  },
+  "payId": 5734,
+  "payDate": {
+    "$date": "2025-06-13T10:29:14.214Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 5553,
+  "project": {
+    "_id": 5553,
+    "name": "Building Project Beta",
+    "jumTukang": 5,
+    "listTukang": [],
+    "deskripsi": "This project is to build a new house in the city center.",
+    "alamatKota": "Jakarta",
+    "durasi": 30,
+    "price": 22750000,
+    "status": "Looking for Tukang",
+    "customer": {
+      "_id": {
+        "$oid": "6845d9fa23f84f4824706835"
+      },
+      "address": "Brebes",
+      "phoneNumber": "08135628888",
+      "orders": [
+        {
+          "_id": 1,
+          "name": "Order-1",
+          "price": 260500,
+          "materials": [
+            {
+              "_id": {
+                "$oid": "682318a0d6e38d35c9b03262"
+              },
+              "stock": 0,
+              "ratingCount": 10,
+              "name": "Semen Tiga Roda",
+              "totrating": 45,
+              "price": 10000
+            },
+            {
+              "_id": {
+                "$oid": "6823261fd6e38d35c9b0326e"
+              },
+              "stock": 1000,
+              "ratingCount": 0,
+              "name": "Batu Bata Merah",
+              "totrating": 0,
+              "price": 500
+            },
+            {
+              "_id": {
+                "$oid": "6823272ed6e38d35c9b03272"
+              },
+              "stock": 50,
+              "ratingCount": 2,
+              "name": "Pasir Hitam",
+              "totrating": 9,
+              "price": 250000
+            }
+          ]
+        },
+        {
+          "_id": 7722,
+          "name": "Order-1",
+          "price": 260500,
+          "materials": [
+            {
+              "_id": {
+                "$oid": "682318a0d6e38d35c9b03262"
+              },
+              "stock": 0,
+              "ratingCount": 10,
+              "name": "Semen Tiga Roda",
+              "totrating": 45,
+              "price": 10000
+            },
+            {
+              "_id": {
+                "$oid": "6823261fd6e38d35c9b0326e"
+              },
+              "stock": 1000,
+              "ratingCount": 0,
+              "name": "Batu Bata Merah",
+              "totrating": 0,
+              "price": 500
+            },
+            {
+              "_id": {
+                "$oid": "6823272ed6e38d35c9b03272"
+              },
+              "stock": 50,
+              "ratingCount": 2,
+              "name": "Pasir Hitam",
+              "totrating": 9,
+              "price": 250000
+            }
+          ]
+        }
+      ],
+      "name": "momooo",
+      "email": "momoo@gmail.com",
+      "password": "$2a$10$OgP94vmB6Y8yD1mmg7weT.lK3HFTw71Bsu1d1M9fWSUvRZhbLU6iG",
+      "role": "ROLE_CUSTOMER"
+    }
+  },
+  "payId": 7271,
+  "payDate": {
+    "$date": "2025-06-13T10:34:11.488Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 1521,
+  "project": {
+    "_id": 1521,
+    "name": "Building Project Beta",
+    "jumTukang": 5,
+    "listTukang": [],
+    "deskripsi": "This project is to build a new house in the city center.",
+    "alamatKota": "Jakarta",
+    "durasi": 30,
+    "price": 22750000,
+    "status": "Looking for Tukang",
+    "customer": {
+      "_id": {
+        "$oid": "6845d9fa23f84f4824706835"
+      },
+      "address": "Brebes",
+      "phoneNumber": "08135628888",
+      "orders": [
+        {
+          "_id": 1,
+          "name": "Order-1",
+          "price": 260500,
+          "materials": [
+            {
+              "_id": {
+                "$oid": "682318a0d6e38d35c9b03262"
+              },
+              "stock": 0,
+              "ratingCount": 10,
+              "name": "Semen Tiga Roda",
+              "totrating": 45,
+              "price": 10000
+            },
+            {
+              "_id": {
+                "$oid": "6823261fd6e38d35c9b0326e"
+              },
+              "stock": 1000,
+              "ratingCount": 0,
+              "name": "Batu Bata Merah",
+              "totrating": 0,
+              "price": 500
+            },
+            {
+              "_id": {
+                "$oid": "6823272ed6e38d35c9b03272"
+              },
+              "stock": 50,
+              "ratingCount": 2,
+              "name": "Pasir Hitam",
+              "totrating": 9,
+              "price": 250000
+            }
+          ]
+        },
+        {
+          "_id": 7722,
+          "name": "Order-1",
+          "price": 260500,
+          "materials": [
+            {
+              "_id": {
+                "$oid": "682318a0d6e38d35c9b03262"
+              },
+              "stock": 0,
+              "ratingCount": 10,
+              "name": "Semen Tiga Roda",
+              "totrating": 45,
+              "price": 10000
+            },
+            {
+              "_id": {
+                "$oid": "6823261fd6e38d35c9b0326e"
+              },
+              "stock": 1000,
+              "ratingCount": 0,
+              "name": "Batu Bata Merah",
+              "totrating": 0,
+              "price": 500
+            },
+            {
+              "_id": {
+                "$oid": "6823272ed6e38d35c9b03272"
+              },
+              "stock": 50,
+              "ratingCount": 2,
+              "name": "Pasir Hitam",
+              "totrating": 9,
+              "price": 250000
+            }
+          ]
+        }
+      ],
+      "name": "momooo",
+      "email": "momoo@gmail.com",
+      "password": "$2a$10$OgP94vmB6Y8yD1mmg7weT.lK3HFTw71Bsu1d1M9fWSUvRZhbLU6iG",
+      "role": "ROLE_CUSTOMER"
+    }
+  },
+  "payId": 9429,
+  "payDate": {
+    "$date": "2025-06-13T10:34:27.113Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 8865,
+  "project": {
+    "_id": 8865,
+    "name": "Building Project Beta",
+    "jumTukang": 5,
+    "listTukang": [],
+    "deskripsi": "This project is to build a new house in the city center.",
+    "alamatKota": "Jakarta",
+    "durasi": 30,
+    "price": 22750000,
+    "status": "Looking for Tukang",
+    "customer": {
+      "_id": {
+        "$oid": "6845d9fa23f84f4824706835"
+      },
+      "address": "Brebes",
+      "phoneNumber": "08135628888",
+      "orders": [
+        {
+          "_id": 1,
+          "name": "Order-1",
+          "price": 260500,
+          "materials": [
+            {
+              "_id": {
+                "$oid": "682318a0d6e38d35c9b03262"
+              },
+              "stock": 0,
+              "ratingCount": 10,
+              "name": "Semen Tiga Roda",
+              "totrating": 45,
+              "price": 10000
+            },
+            {
+              "_id": {
+                "$oid": "6823261fd6e38d35c9b0326e"
+              },
+              "stock": 1000,
+              "ratingCount": 0,
+              "name": "Batu Bata Merah",
+              "totrating": 0,
+              "price": 500
+            },
+            {
+              "_id": {
+                "$oid": "6823272ed6e38d35c9b03272"
+              },
+              "stock": 50,
+              "ratingCount": 2,
+              "name": "Pasir Hitam",
+              "totrating": 9,
+              "price": 250000
+            }
+          ]
+        },
+        {
+          "_id": 7722,
+          "name": "Order-1",
+          "price": 260500,
+          "materials": [
+            {
+              "_id": {
+                "$oid": "682318a0d6e38d35c9b03262"
+              },
+              "stock": 0,
+              "ratingCount": 10,
+              "name": "Semen Tiga Roda",
+              "totrating": 45,
+              "price": 10000
+            },
+            {
+              "_id": {
+                "$oid": "6823261fd6e38d35c9b0326e"
+              },
+              "stock": 1000,
+              "ratingCount": 0,
+              "name": "Batu Bata Merah",
+              "totrating": 0,
+              "price": 500
+            },
+            {
+              "_id": {
+                "$oid": "6823272ed6e38d35c9b03272"
+              },
+              "stock": 50,
+              "ratingCount": 2,
+              "name": "Pasir Hitam",
+              "totrating": 9,
+              "price": 250000
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "name": "momooo",
+      "email": "momoo@gmail.com",
+      "password": "$2a$10$OgP94vmB6Y8yD1mmg7weT.lK3HFTw71Bsu1d1M9fWSUvRZhbLU6iG",
+      "role": "ROLE_CUSTOMER"
+    }
+  },
+  "payId": 8256,
+  "payDate": {
+    "$date": "2025-06-13T10:40:09.902Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 4314,
+  "project": {
+    "_id": 4314,
+    "name": "Building Project Beta",
+    "jumTukang": 5,
+    "listTukang": [],
+    "deskripsi": "This project is to build a new house in the city center.",
+    "alamatKota": "Jakarta",
+    "durasi": 30,
+    "price": 22750000,
+    "status": "Looking for Tukang",
+    "customer": {
+      "_id": {
+        "$oid": "6845d9fa23f84f4824706835"
+      },
+      "address": "Brebes",
+      "phoneNumber": "08135628888",
+      "orders": [
+        {
+          "_id": 1,
+          "name": "Order-1",
+          "price": 260500,
+          "materials": [
+            {
+              "_id": {
+                "$oid": "682318a0d6e38d35c9b03262"
+              },
+              "stock": 0,
+              "ratingCount": 10,
+              "name": "Semen Tiga Roda",
+              "totrating": 45,
+              "price": 10000
+            },
+            {
+              "_id": {
+                "$oid": "6823261fd6e38d35c9b0326e"
+              },
+              "stock": 1000,
+              "ratingCount": 0,
+              "name": "Batu Bata Merah",
+              "totrating": 0,
+              "price": 500
+            },
+            {
+              "_id": {
+                "$oid": "6823272ed6e38d35c9b03272"
+              },
+              "stock": 50,
+              "ratingCount": 2,
+              "name": "Pasir Hitam",
+              "totrating": 9,
+              "price": 250000
+            }
+          ]
+        },
+        {
+          "_id": 7722,
+          "name": "Order-1",
+          "price": 260500,
+          "materials": [
+            {
+              "_id": {
+                "$oid": "682318a0d6e38d35c9b03262"
+              },
+              "stock": 0,
+              "ratingCount": 10,
+              "name": "Semen Tiga Roda",
+              "totrating": 45,
+              "price": 10000
+            },
+            {
+              "_id": {
+                "$oid": "6823261fd6e38d35c9b0326e"
+              },
+              "stock": 1000,
+              "ratingCount": 0,
+              "name": "Batu Bata Merah",
+              "totrating": 0,
+              "price": 500
+            },
+            {
+              "_id": {
+                "$oid": "6823272ed6e38d35c9b03272"
+              },
+              "stock": 50,
+              "ratingCount": 2,
+              "name": "Pasir Hitam",
+              "totrating": 9,
+              "price": 250000
+            }
+          ]
+        }
+      ],
+      "projects": [],
+      "name": "momooo",
+      "email": "momoo@gmail.com",
+      "password": "$2a$10$OgP94vmB6Y8yD1mmg7weT.lK3HFTw71Bsu1d1M9fWSUvRZhbLU6iG",
+      "role": "ROLE_CUSTOMER"
+    }
+  },
+  "payId": 4157,
+  "payDate": {
+    "$date": "2025-06-13T10:46:46.939Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 9756,
+  "project": {
+    "_id": 9756,
+    "name": "Building Project Beta",
+    "jumTukang": 5,
+    "listTukang": [],
+    "deskripsi": "This project is to build a new house in the city center.",
+    "alamatKota": "Jakarta",
+    "durasi": 30,
+    "price": 22750000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 3135,
+  "payDate": {
+    "$date": "2025-06-13T10:55:52.328Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 8297,
+  "project": {
+    "_id": 8297,
+    "name": "alpha",
+    "jumTukang": 4,
+    "listTukang": [],
+    "deskripsi": "Alpha",
+    "alamatKota": "Bandung",
+    "durasi": 4,
+    "price": 2650000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 6574,
+  "payDate": {
+    "$date": "2025-06-14T09:55:15.011Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 1943,
+  "project": {
+    "_id": 1943,
+    "name": "asda",
+    "jumTukang": 3,
+    "listTukang": [],
+    "deskripsi": "dd",
+    "alamatKota": "ada",
+    "durasi": 3,
+    "price": 1600000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 3865,
+  "payDate": {
+    "$date": "2025-06-14T09:55:52.918Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 8854,
+  "project": {
+    "_id": 8854,
+    "name": "qe",
+    "jumTukang": 2,
+    "listTukang": [],
+    "deskripsi": "dawd",
+    "alamatKota": "Jakarta",
+    "durasi": 2,
+    "price": 850000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 1180,
+  "payDate": {
+    "$date": "2025-06-14T10:00:51.178Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 3141,
+  "project": {
+    "_id": 3141,
+    "name": "Beta",
+    "jumTukang": 19,
+    "listTukang": [],
+    "deskripsi": "Beta Squad",
+    "alamatKota": "Brebes",
+    "durasi": 10,
+    "price": 28750000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 6998,
+  "payDate": {
+    "$date": "2025-06-14T10:05:26.414Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 1533,
+  "project": {
+    "_id": 1533,
+    "name": "Beta Squad",
+    "jumTukang": 50,
+    "listTukang": [],
+    "deskripsi": "This project is to build a new house in the city.",
+    "alamatKota": "Jawa",
+    "durasi": 30,
+    "price": 225250000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 2259,
+  "payDate": {
+    "$date": "2025-06-14T10:11:03.492Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 7274,
+  "project": {
+    "_id": 7274,
+    "name": "satu",
+    "jumTukang": 18,
+    "listTukang": [],
+    "deskripsi": "satu",
+    "alamatKota": "salatiga",
+    "durasi": 18,
+    "price": 48850000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 4119,
+  "payDate": {
+    "$date": "2025-06-14T10:18:07.216Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 3942,
+  "project": {
+    "_id": 3942,
+    "name": "aku",
+    "jumTukang": 19,
+    "listTukang": [],
+    "deskripsi": "dd",
+    "alamatKota": "aku",
+    "durasi": 19,
+    "price": 54400000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 6884,
+  "payDate": {
+    "$date": "2025-06-14T10:20:45.053Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 5177,
+  "project": {
+    "_id": 5177,
+    "name": "ree",
+    "jumTukang": 12,
+    "listTukang": [],
+    "deskripsi": "haii",
+    "alamatKota": "Bandung",
+    "durasi": 289,
+    "price": 520450000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 8066,
+  "payDate": {
+    "$date": "2025-06-14T11:45:44.996Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 4244,
+  "project": {
+    "_id": 4244,
+    "name": "a",
+    "jumTukang": 1,
+    "listTukang": [],
+    "deskripsi": "...",
+    "alamatKota": "Bandung",
+    "durasi": 1,
+    "price": 400000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 8961,
+  "payDate": {
+    "$date": "2025-06-14T12:55:14.717Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 3983,
+  "project": {
+    "_id": 3983,
+    "name": "Beta Squad",
+    "jumTukang": 50,
+    "listTukang": [],
+    "deskripsi": "This project is to build a new house in the city.",
+    "alamatKota": "Jawa",
+    "durasi": 30,
+    "price": 225250000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 4719,
+  "payDate": {
+    "$date": "2025-06-14T12:58:22.652Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 2544,
+  "project": {
+    "_id": 2544,
+    "name": "aa",
+    "jumTukang": 1,
+    "listTukang": [],
+    "deskripsi": "aaa",
+    "alamatKota": "aaaa",
+    "durasi": 1,
+    "price": 400000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 2417,
+  "payDate": {
+    "$date": "2025-06-14T12:59:47.052Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 4210,
+  "project": {
+    "_id": 4210,
+    "name": "gawe kloset",
+    "jumTukang": 200,
+    "listTukang": [],
+    "deskripsi": "pokoke beres",
+    "alamatKota": "Kendal",
+    "durasi": 1,
+    "price": 30250000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 3719,
+  "payDate": {
+    "$date": "2025-06-14T14:51:18.788Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 4056,
+  "project": {
+    "_id": 4056,
+    "name": "meja rusak",
+    "jumTukang": 12,
+    "listTukang": [],
+    "deskripsi": "hehe",
+    "alamatKota": "didieu",
+    "durasi": 1,
+    "price": 2050000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 1717,
+  "payDate": {
+    "$date": "2025-06-14T15:42:25.655Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 8944,
+  "project": {
+    "_id": 8944,
+    "name": "1",
+    "jumTukang": 1,
+    "listTukang": [],
+    "deskripsi": "1",
+    "alamatKota": "111",
+    "durasi": 1,
+    "price": 400000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 5596,
+  "payDate": {
+    "$date": "2025-06-14T15:43:05.566Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 7371,
+  "project": {
+    "_id": 7371,
+    "name": "12",
+    "jumTukang": 11,
+    "listTukang": [],
+    "deskripsi": "111",
+    "alamatKota": "123",
+    "durasi": 1,
+    "price": 1900000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 3200,
+  "payDate": {
+    "$date": "2025-06-14T15:50:35.480Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 9386,
+  "project": {
+    "_id": 9386,
+    "name": "1",
+    "jumTukang": 1,
+    "listTukang": [],
+    "deskripsi": "1",
+    "alamatKota": "123",
+    "durasi": 1,
+    "price": 400000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 4318,
+  "payDate": {
+    "$date": "2025-06-14T15:51:02.439Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 9941,
+  "project": {
+    "_id": 9941,
+    "name": "Bikin Rumah Tangga",
+    "jumTukang": 7,
+    "listTukang": [],
+    "deskripsi": "pokona mah harus jadi",
+    "alamatKota": "Bandung",
+    "durasi": 60,
+    "price": 63250000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 4429,
+  "payDate": {
+    "$date": "2025-06-15T08:48:51.775Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 7694,
+  "project": {
+    "_id": 7694,
+    "name": "Project Baru Euy",
+    "jumTukang": 9,
+    "listTukang": [],
+    "deskripsi": "blabla",
+    "alamatKota": "Tegal",
+    "durasi": 10,
+    "price": 13750000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 3274,
+  "payDate": {
+    "$date": "2025-06-15T10:00:52.504Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 2784,
+  "project": {
+    "_id": 2784,
+    "name": "Cobain",
+    "jumTukang": 1,
+    "listTukang": [],
+    "deskripsi": "kikuk",
+    "alamatKota": "Bengkulu",
+    "durasi": 19,
+    "price": 3100000,
+    "status": "Looking for Tukang",
+    "customerId": "6845d9fa23f84f4824706835"
+  },
+  "payId": 3358,
+  "payDate": {
+    "$date": "2025-06-15T10:19:26.579Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 8521,
+  "project": {
+    "_id": 8521,
+    "name": "Bangun canti 1 malam",
+    "jumTukang": 1,
+    "listTukang": [],
+    "deskripsi": "Harus dalam 1 malam",
+    "alamatKota": "Yogyakarta (Jawa)",
+    "durasi": 1,
+    "price": 400000,
+    "status": "Looking for Tukang",
+    "customerId": "684d6ddbe14d1439a7eeb97e"
+  },
+  "payId": 9099,
+  "payDate": {
+    "$date": "2025-06-15T16:18:46.246Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 7478,
+  "project": {
+    "_id": 7478,
+    "name": "Garden",
+    "jumTukang": 4,
+    "listTukang": [],
+    "deskripsi": "Garden setup in my house",
+    "alamatKota": "Bandung",
+    "durasi": 12,
+    "price": 7450000,
+    "status": "Looking for Tukang",
+    "customerId": "684ed3ab6cff7f283f162637"
+  },
+  "payId": 7813,
+  "payDate": {
+    "$date": "2025-06-15T18:10:48.133Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+},
+{
+  "_id": 3245,
+  "project": {
+    "_id": 3245,
+    "name": "BikinRumah",
+    "jumTukang": 15,
+    "listTukang": [],
+    "deskripsi": "Bikin rumah mewah",
+    "alamatKota": "Bandung",
+    "durasi": 30,
+    "price": 67750000,
+    "status": "Looking for Tukang",
+    "customerId": "684fb4584a974427511f4963"
+  },
+  "payId": 2488,
+  "payDate": {
+    "$date": "2025-06-16T06:41:18.996Z"
+  },
+  "status": "not yet paid",
+  "_class": "com.example.tubespboo.model.OrderProjectDetails"
+}]
